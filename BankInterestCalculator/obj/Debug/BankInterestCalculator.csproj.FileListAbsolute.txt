@@ -1,0 +1,9 @@
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\bin\Debug\BankInterestCalculator.exe.config
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\bin\Debug\BankInterestCalculator.exe
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\bin\Debug\BankInterestCalculator.pdb
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\obj\Debug\BankInterestCalculator.csprojResolveAssemblyReference.cache
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\obj\Debug\BankInterestCalculator.Form1.resources
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\obj\Debug\BankInterestCalculator.Properties.Resources.resources
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\obj\Debug\BankInterestCalculator.csproj.GenerateResource.Cache
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\obj\Debug\BankInterestCalculator.exe
+D:\Work\POC\BankInterestCalculator\BankInterestCalculator\obj\Debug\BankInterestCalculator.pdb
