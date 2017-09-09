@@ -1,6 +1,6 @@
 ﻿namespace BankInterestCalculator
 {
-    partial class Form1
+    partial class EmiCalculator
     {
         /// <summary>
         /// Required designer variable.
@@ -137,7 +137,7 @@
             this.remainingLabel.TabIndex = 10;
             this.remainingLabel.Text = "Remaining to close";
             // 
-            // Form1
+            // EmiCalculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -153,8 +153,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "EmiCalculator";
+            this.Text = "Emi Calculator";
             this.ResumeLayout(false);
             this.PerformLayout();
 

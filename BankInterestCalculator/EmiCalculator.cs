@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BankInterestCalculator
 {
-    public partial class Form1 : Form
+    public partial class EmiCalculator : Form
     {
-        public Form1()
+        public EmiCalculator()
         {
             InitializeComponent();
         }
